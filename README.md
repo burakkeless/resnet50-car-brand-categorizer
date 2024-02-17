@@ -2,7 +2,7 @@
 
 Car Brand Categorizer is a machine learning application built to predict the brand of a car from an input image. The application utilizes a pre-trained ResNet50 model and provides a user-friendly GUI for easy interaction.
 
-![Screenshot](https://github.com/burakkeless/resnet50-car-brand-categorizer/assets/56159332/7b375636-8839-4592-8187-4cd3f9ceeb12)
+<img src="https://github.com/burakkeless/resnet50-car-brand-categorizer/assets/56159332/7b375636-8839-4592-8187-4cd3f9ceeb12" alt="Screenshot" width="400">
 
 ## Features
 
